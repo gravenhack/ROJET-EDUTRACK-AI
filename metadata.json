@@ -1,0 +1,7 @@
+{
+  "name": "EduTrack AI Bénin",
+  "description": "Plateforme d'apprentissage adaptatif pour les lycéens béninois utilisant l'IA pour personnaliser le parcours vers le BAC.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
